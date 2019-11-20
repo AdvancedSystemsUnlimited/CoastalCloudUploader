@@ -1,0 +1,57 @@
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.deps.json
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.json
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.dev.json
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.dll
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.pdb
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csproj.CoreCompileInputs.cache
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cache
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cs
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfoInputs.cache
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfo.cs
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorTargetAssemblyInfo.cache
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.dll
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.pdb
+E:\ASU\git\repos\CoastalCloud\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csprojAssemblyReference.cache
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.deps.json
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.json
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.dev.json
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.dll
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.pdb
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cache
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cs
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfoInputs.cache
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfo.cs
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.dll
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.pdb
+C:\Users\Angela Carr\Downloads\OracleServiceCloudAttachmentUpload\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csprojAssemblyReference.cache
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.deps.json
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.json
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.dev.json
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.dll
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.pdb
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cache
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cs
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfoInputs.cache
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfo.cs
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.dll
+C:\Users\Angela Carr\Desktop\OracleServiceCloudAttachmentUpload\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.pdb
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.deps.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.runtimeconfig.dev.json
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.dll
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\bin\Debug\netcoreapp2.1\TestWebAPI.pdb
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.csprojAssemblyReference.cache
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cache
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorAssemblyInfo.cs
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfoInputs.cache
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.AssemblyInfo.cs
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.RazorTargetAssemblyInfo.cache
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.dll
+G:\ASU\git\CoastalCloud\New Solutions\OracleCloudService\TestWebAPI\obj\Debug\netcoreapp2.1\TestWebAPI.pdb
